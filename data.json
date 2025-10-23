@@ -1,7 +1,55 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "file": "experiments/molnar-recreation.js",
+    "name": "Vera Molnar Recreation",
+    "description": "Recreation of Vera Molnar's grid-based generative drawings, made with the help of Garrit's tutorial. Randomized squares showcase variation and portray a sense of organized chaos."
+  },
+
+  {
+    "file": "experiments/molnar-var1.js",
+    "name": "Vera Molnar 1st Variation",
+    "description": "Built on the recreation, this variation uses three hues of green to create a calmer feel."
+  },
+
+  {
+    "file": "experiments/molnar-var2.js",
+    "name": "Vera Molnar 2nd Variation",
+    "description": "Squares are replaced with blue circles and reduced jitter to create a more controlled look."
+  },
+
+  {
+    "file": "experiments/noise-recreation.js",
+    "name": "Perlin Noise Recreation",
+    "description": "Recreation of a Perlin noise field based on Garrit's example. Circles vary in size, creating an interesting texture."
+  },
+
+  {
+    "file": "experiments/noise-var1.js",
+    "name": "Perlin Noise 1st Variation",
+    "description": "Playing around with the recreation, this variation uses green and brown hues to portray a camouflage or reptile skin pattern."
+  },
+
+  {
+    "file": "experiments/noise-var2.js",
+    "name": "Perlin Noise 2nd Variation",
+    "description": "An animated variation in blue tones that resembles a moving sea. Press anywhere on the canvas to create a random synth sound."
+  },
+
+  {
+    "file": "experiments/flow-recreation.js",
+    "name": "Flow Field Recreation",
+    "description": "Particles follow directions from a noise-based vector field (adapted from Garrit's example), leaving trails as they move."
+  },
+
+  {
+    "file": "experiments/flow-var1.js",
+    "name": "Flow Field 1st Variation",
+    "description": "Building on the recreation, this variation of a flow field features two harmonizing colors that follow randomized directions, producing a dynamic pattern."
+  },
+
+  {
+    "file": "experiments/flow-var2.js",
+    "name": "Flow Field 2nd Variation",
+    "description": "This variation of the flow field features fewer agents and a warm yellow-orange palette, producing sunray-like trails."
   }
 ]
